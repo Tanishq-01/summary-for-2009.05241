@@ -22,5 +22,10 @@ lambda here in second term is a normal constant which we can control to intensif
 
 It can be inferred from images that including the regularizer term has made distribution of predicted values concentrated across lot of labels instead of single label.
 
-###Experiment
-The efficacy of MID is commpared against several effective MI attacks. Defense baseline is compared with DP as well as other defences available for single model or attack.
+### Experiment
+The efficacy of MID is commpared against several effective MI attacks. Defense baseline is compared with DP as well as other defences available for single model or attacks as well as some specialised defences.
+
+Evaluation of performance of model is in terms of privacy and utility. We have parameters using which we can inncrease robustness but utility comes down then. Utility is measured by MSE, or f1 score depending on case to case.
+
+### Results
+
