@@ -19,6 +19,7 @@ This makes X to be less likely determined from a given y.
 lambda here in second term is a normal constant which we can control to intensify the effect of regularizer term.
 
 ![](https://github.com/Tanishq-01/summary-for-2009.05241/blob/main/Screenshot%202022-08-25%20034500.png)
+
 It can be inferred from images that including the regularizer term has made distribution of predicted values concentrated across lot of labels instead of single label.
 
 
