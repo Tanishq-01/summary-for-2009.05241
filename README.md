@@ -15,7 +15,8 @@ The attacker ha access to a model that ouptuts label for images.Attcker's goal i
 ![This is an image](https://github.com/Tanishq-01/summary-for-2009.05241/blob/main/Screenshot%202022-08-25%20032519.png)
 
 Here the loss function contains two terms.First term is the loss function for the classifiaction task. The second term is the proposed regularizer and it promotes uncertainty of output for a given input. I other words different inputs be mappped to same or very similar outputs(for a given input) which also increases the variance.
+lambda here in second term is a normal constant which we can control to intensify the effect of regularizer term.
 
-![]()
+![](https://github.com/Tanishq-01/summary-for-2009.05241/blob/main/Screenshot%202022-08-25%20034500.png)
 
 
