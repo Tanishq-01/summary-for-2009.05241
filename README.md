@@ -28,4 +28,6 @@ The efficacy of MID is commpared against several effective MI attacks. Defense b
 Evaluation of performance of model is in terms of privacy and utility. We have parameters using which we can inncrease robustness but utility comes down then. Utility is measured by MSE, or f1 score depending on case to case.
 
 ### Results
+![](https://github.com/Tanishq-01/summary-for-2009.05241/blob/main/Screenshot%202022-08-25%20040356.png)
 
+We can see that MID defense achieves better privacy-utility tradeoff compared to other defenses.
