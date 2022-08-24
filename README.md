@@ -12,6 +12,6 @@ MI attacks exploit the correlation between model input and output.The idea is to
 The attacker ha access to a model that ouptuts label for images.Attcker's goal is to find representational image for the label y building upon some auxilary knowledge about the data that he might have. Our goal is to train the model such that access to model does not allow attacker to infer information about X(image).
 
 ### Loss Function.
-![](/assets/images/electrocat.png)
+![This is an image]()
 
 
