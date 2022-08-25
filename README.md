@@ -34,4 +34,4 @@ We can see that MID defense achieves better privacy-utility tradeoff compared to
 
 ### Conclusion
 
-All in all it can be concluded that MID defence is more successful in almost all settings and the idea of limiting relation between X and y works.
+All in all it can be concluded that MID defence is more successful in almost all settings and the idea of limiting relation between X and y works. What i think can be done further is that we can increase number of subclasses to confuse the attacker.
