@@ -30,4 +30,6 @@ Evaluation of performance of model is in terms of privacy and utility. We have p
 ### Results
 ![](https://github.com/Tanishq-01/summary-for-2009.05241/blob/main/Screenshot%202022-08-25%20040356.png)
 
-We can see that MID defense achieves better privacy-utility tradeoff compared to other defenses.
+We can see that MID defense achieves better privacy-utility tradeoff compared to other defenses. Another point to notice is that increasing model utility increases the vulnerability to attacks.
+
+![]()
